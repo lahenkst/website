@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate. <a href='https://www.mzes.uni-mannheim.de/en/'>Mannheim Centre for European Social Research (MZES)</a> PhD Candidate <a href='https://www.uni-mannheim.de/gess/programs/cdss/'>University of Mannheim</a> .
+subtitle: Research Associate & PhD Candidate <a href='https://www.mzes.uni-mannheim.de/en/'>Mannheim Centre for European Social Research (MZES)</a>
 
 profile:
   align: right
