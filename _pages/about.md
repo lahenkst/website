@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Associate. <a href='https://www.mzes.uni-mannheim.de/en/'>Mannheim Centre for European Social Research (MZES)</a> PhD Candidate <a href='https://www.uni-mannheim.de/gess/programs/cdss/'>University of Mannheim</a> .
 
 profile:
   align: right
